@@ -1,4 +1,4 @@
-<img src="https://images-ext-1.discordapp.net/external/R8q9FUOLl5lCgd0iYWLn2iYL-cwKjPIBLkBiDnGKrZE/https/cdn.discordapp.com/attachments/435438282701275136/457202386549866507/logo2.png" halign="center" valign="center" hspace="250px">
+<img src="https://images-ext-1.discordapp.net/external/R8q9FUOLl5lCgd0iYWLn2iYL-cwKjPIBLkBiDnGKrZE/https/cdn.discordapp.com/attachments/435438282701275136/457202386549866507/logo2.png" halign="center" valign="center">
 
 
 <h3><strong>Stim is an ASIC-resistant digital cryptocurrency based on an improved Dash blockchain.  Stim’s database network uses key technologies to encrypt, store, retrieve and distribute data across the network. Instant payments and quick confirmations will be much faster than Bitcoin. Your payments will be processed anywhere in the world at any time, as quickly as possible.  All transactions are stored in a unit of cost and can be accessed by any user at any time.
